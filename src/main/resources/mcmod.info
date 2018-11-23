@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "diamondnugget",
+    "name": "Diamond Nugget",
+    "description": "A diamond nugget.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "hellfire212"
+    ],
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

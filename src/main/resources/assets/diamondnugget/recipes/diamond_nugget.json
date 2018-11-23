@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:diamond",
+      "data": 0
+    }
+  ],
+  "result": {
+    "item": "diamondnugget:diamond_nugget",
+    "count": 9,
+    "data": 0
+  }
+}
