@@ -10,13 +10,9 @@ import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 import net.minecraftforge.oredict.OreDictionary;
 
-@Mod(modid = DiamondNugget.MODID, name = DiamondNugget.NAME, version = DiamondNugget.VERSION)
-@Mod.EventBusSubscriber(modid = DiamondNugget.MODID)
+@Mod(modid = "diamondnugget", useMetadata = true)
+@Mod.EventBusSubscriber
 public class DiamondNugget {
-    static final String MODID = "diamondnugget";
-    static final String NAME = "Diamond Nugget";
-    static final String VERSION = "0.0.1";
-
     private static Item DIAMOND_NUGGET;
 
     static {
