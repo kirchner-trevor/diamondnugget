@@ -14,7 +14,7 @@ import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 import net.minecraftforge.oredict.OreDictionary;
 
-@Mod(modid = "diamondnugget", useMetadata = true)
+@Mod(modid = "diamondnugget", name = "Diamond Nugget", version = "0.0.0-0.0.0.0")
 @Mod.EventBusSubscriber
 public class DiamondNugget {
     private static Item DIAMOND_NUGGET;
