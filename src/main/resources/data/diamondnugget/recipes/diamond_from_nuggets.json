@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "diamond",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "diamondnugget:diamond_nugget"
+    }
+  },
+  "result": {
+    "item": "minecraft:diamond"
+  }
+}
